@@ -1,0 +1,10 @@
+# All about {YOUR GIVEN NAME HERE}
+
+## Email
+{YOUR EMAIL HERE}
+
+## Major
+{ENTER YOUR MAJOR HERE}
+
+## Biography
+{WRITE A FEW SENTENCES HERE}
