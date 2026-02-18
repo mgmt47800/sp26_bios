@@ -29,3 +29,4 @@ The demonstration will continue in class.
 
 ## List of Class Participants
 - [Rob Elliott](ree.md)
+- [Sean Wu](ree.md)
