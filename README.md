@@ -31,3 +31,5 @@ The demonstration will continue in class.
 - [Rob Elliott](ree.md)
 - [Paige Kennedy](kenne230.md)
 - [Ethan Louie](louiee.md)
+- [Megan Zhu] (mgnzu.md)
+
