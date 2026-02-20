@@ -4,3 +4,4 @@
 # Major: BAIM
 # Minor: Finance
 # Grade: Junior
+# From: Taiwan
